@@ -24,7 +24,7 @@ local Window = Rayfield:CreateWindow({
 		FileName = "GalaxyV2Key",
 		SaveKey = true,
 		GrabKeyFromSite = false,
-		Key = "Test"
+		Key = "GHV2_Wolfyz"
 	}
 })
 
